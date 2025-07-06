@@ -27,3 +27,4 @@ Generative text models have numerous applications across industries. In customer
 In conclusion, generative text models are powerful AI systems that can produce coherent and creative human-like text. With tools like PyTorch, TensorFlow, Hugging Face Transformers, and cloud platforms like Google Colab, these models are now more accessible than ever to developers, researchers, and hobbyists around the world.
 
 *output :*
+<img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/44f0a9d9-a55a-4c4a-bfc5-c1f7bef9f5e9" />
